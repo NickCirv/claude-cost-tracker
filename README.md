@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # claude-cost-tracker
 
 Track and visualize Claude Code API spending — local, zero dependencies on external APIs.
