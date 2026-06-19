@@ -9,7 +9,8 @@
   "scripts": {
     "start": "node bin/track.js",
     "report": "node bin/track.js report",
-    "models": "node bin/track.js models"
+    "models": "node bin/track.js models",
+    "test": "node --test"
   },
   "keywords": [
     "claude",
